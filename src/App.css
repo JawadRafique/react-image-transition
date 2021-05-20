@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: black;
+  background-color: #d0eaf0;
+}
+
+.homeScreen {
+  min-height: 100.01vh;
+}
+
+.img-full {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.top-row,
+.bottom-row {
+  min-height: 50vh;
+  width: 100%;
+}
+
+.first > span,
+.last > span {
+  font-size: 05vw;
+  letter-spacing: 2rem;
+}
+
+/* .model .frame {
+  max-width: 800px;
+} */
+
+p {
+  font-weight: bold;
+}
