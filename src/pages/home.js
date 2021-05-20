@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import React from "react";
 import { Container, Row } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import Avril from "../images/avril.jpg";
+import Avril from "../public/images/avril.jpg";
 
 const transition = {
   duration: 0.6,

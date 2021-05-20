@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import React from "react";
 import { Container } from "react-bootstrap";
-import Avril from "../images/avril.jpg";
+import Avril from "../public/images/avril.jpg";
 
 const transition = {
   duration: 1.4,
